@@ -6,8 +6,8 @@
 
 ### About Me:
 I'm a tech enthusiast passionate about coding and problem-solving. I love exploring new technologies, sharpening my skills, and building efficient software solutions in Java, Python, and C++.
-🔹 Software Development: Scalable & efficient applications
-🔹 Algorithms & Problem-Solving: Active LeetCode solver
+-🔹 Software Development: Scalable & efficient applications
+-🔹 Algorithms & Problem-Solving: Active LeetCode solver
 
 ---
 
