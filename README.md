@@ -5,18 +5,16 @@
 ---
 
 ### About Me:
-I'm a tech enthusiast and problem-solver with a passion for coding and technology. When I'm not programming, I enjoy exploring new advancements in tech and sharpening my problem-solving skills. My focus areas include:
-- **Software Development:** Building efficient and scalable applications in Python, Java, and C++.
-- **Algorithms & Problem-Solving:** Actively solving LeetCode challenges and improving coding efficiency.
-
-Always learning, always improving. Let’s build something great.
+I'm a tech enthusiast passionate about coding and problem-solving. I love exploring new technologies, sharpening my skills, and building efficient software solutions in Java, Python, and C++.
+🔹 Software Development: Scalable & efficient applications
+🔹 Algorithms & Problem-Solving: Active LeetCode solver
 
 ---
 
 ### Tech Stack:
-- **Languages:** Java | Python | C++
-- **CS Fundamentals:** Data Structures & Algorithms | OOP 
-- **Dev Tools:** Git | GitHub | VS Code
+- **Languages:** ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java) ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+- **CS Fundamentals:** Data Structures & Algorithms | OOP
+- **Tools:** ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 ---
 
