@@ -5,7 +5,7 @@
 ---
 
 ### About Me:
-I'm a tech enthusiast passionate about coding and problem-solving. I love exploring new technologies, sharpening my skills, and building efficient software solutions in Java, Python, and C++.
+I'm a tech enthusiast passionate about coding and problem-solving. I love exploring new technologies, sharpening my skills. Currently focused on Java and Python-based software development.
 - **Software Development:** Scalable & efficient Codes
 - **Algorithms & Problem-Solving:** Active LeetCode solver
 
