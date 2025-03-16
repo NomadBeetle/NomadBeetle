@@ -35,6 +35,7 @@ I'm a tech enthusiast passionate about coding and problem-solving. I love explor
 
 ### 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NomadBeetle&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NomadBeetle&theme=dark&hide_border=true)
 
 ### 🔥 LeetCode Progress:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/NomadBeetle?theme=dark&font=Karma&ext=contest)](https://leetcode.com/NomadBeetle/)
