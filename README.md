@@ -21,6 +21,7 @@ I'm a tech enthusiast passionate about coding and problem-solving. I love explor
 ### My Coding Journey:
 - **LeetCode Progress:** 50+ problems solved.
 - **Projects:**
+  - [Python Quiz Game](https://github.com/NomadBeetle/Python-Quiz-Game.git) – A True/False quiz game built using Python and OOP principles.
   - [Coffee Maker](https://github.com/NomadBeetle/Coffee-Maker) – A Python-based coffee machine simulator.
   - [Higher Lower Game](https://github.com/NomadBeetle/Higher-Lower-Game) – A Python game based on guessing popularity rankings.
   - [MysticDigits](https://github.com/NomadBeetle/MysticDigits) – A Python-based number manipulation project.
@@ -36,6 +37,8 @@ I'm a tech enthusiast passionate about coding and problem-solving. I love explor
 ### 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NomadBeetle&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NomadBeetle&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NomadBeetle&layout=compact&theme=radical)
+
 
 ### 🔥 LeetCode Progress:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/NomadBeetle?theme=dark&font=Karma&ext=contest)](https://leetcode.com/NomadBeetle/)
