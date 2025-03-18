@@ -1,12 +1,12 @@
-### Hey there, I'm Azaan!
+### Hellow, I'm Azaan!
 
 **Aspiring Software Engineer | B.Tech CSE (AIML) @ VIT Bhopal**
 
 ---
 
 ### About Me:
-I'm a tech enthusiast passionate about coding and problem-solving. I love exploring new technologies, sharpening my skills. Currently focused on Java and Python-based software development.
-- **Software Development:** Scalable & efficient Codes
+Tech adventurer on a quest to master coding and problem solving. Always leveling up my skills, exploring new technologies, and optimizing my code. Currently honing my Java and Python abilities.
+- **Software Development:** Building efficient solutions in Java and Python
 - **Algorithms & Problem-Solving:** Active LeetCode solver
 
 ---
