@@ -43,8 +43,6 @@ Tech adventurer on a quest to master coding and problem solving. Always leveling
 
 ### 🔥 LeetCode Progress:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/NomadBeetle?theme=dark&font=Karma&ext=contest)](https://leetcode.com/NomadBeetle/)
-[![LeetCode Streak](https://leetcalendar-api.vercel.app/NomadBeetle?theme=dark)
-
 
 ---
 
