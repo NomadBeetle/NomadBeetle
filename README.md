@@ -1,4 +1,4 @@
-### Hello, I'm **Azaan**!  
+### Hello, I'm ***Azaan***!  
 <p align="left">
   <img src="https://camo.githubusercontent.com/fa3b9292d0f2bfe0e30c0d8b0e0fb7ad611ffdf5452a610f621dbf137c3f5a5c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" alt="Wave" width="50">
 </p>
@@ -39,10 +39,8 @@ Tech adventurer on a quest to master coding and problem solving. Always leveling
 ---
 
 ### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NomadBeetle&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NomadBeetle&theme=dark&hide_border=true" height="165">
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NomadBeetle&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NomadBeetle&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NomadBeetle&layout=compact&theme=radical)
 
 
