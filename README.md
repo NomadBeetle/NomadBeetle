@@ -30,6 +30,7 @@ Tech adventurer on a quest to master coding and problem solving. Always leveling
   - [Hangman Game](https://github.com/NomadBeetle/Hangman) – A simple Python CLI word-guessing game.
   - [TaskMaster](https://github.com/NomadBeetle/TaskMaster) – A Java-based task management system.
   - [Console Calculator](https://github.com/NomadBeetle/Console-Calculator) – A Java-based calculator.
+  - [Spot Drawing Generator](https://github.com/NomadBeetle/Spot-Drawing-Generator) – A Python-based turtle graphics project that creates colorful spot paintings.
   - More projects coming soon.
 
 ---
@@ -42,6 +43,8 @@ Tech adventurer on a quest to master coding and problem solving. Always leveling
 
 ### 🔥 LeetCode Progress:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/NomadBeetle?theme=dark&font=Karma&ext=contest)](https://leetcode.com/NomadBeetle/)
+[![LeetCode Streak](https://leetcalendar-api.vercel.app/NomadBeetle?theme=dark)
+
 
 ---
 
