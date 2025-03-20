@@ -40,7 +40,8 @@ Tech adventurer on a quest to master coding and problem solving. Always leveling
 ---
 
 ### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NomadBeetle&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NomadBeetle&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=NomadBeetle&cache_seconds=86400
+)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NomadBeetle&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NomadBeetle&layout=compact&theme=radical)
 
