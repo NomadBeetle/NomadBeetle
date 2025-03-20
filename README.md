@@ -35,6 +35,7 @@ Tech adventurer on a quest to master coding and problem solving. Always leveling
   9. [Coffee Maker](https://github.com/NomadBeetle/Coffee-Maker) – A Python-based coffee machine simulator.
   10. [Caesar Cipher](https://github.com/NomadBeetle/Caesar-Cipher) – A Python implementation of the classic encryption technique.
   11. [Hangman Game](https://github.com/NomadBeetle/Hangman) – A simple Python CLI word-guessing game.
+  More projects to come...
 
 ---
 
