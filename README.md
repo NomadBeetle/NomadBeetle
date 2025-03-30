@@ -24,18 +24,19 @@ Tech adventurer on a quest to master coding and problem solving. Always leveling
 ### My Coding Journey:
 - **LeetCode Progress:** 50+ problems solved.
 - **Projects (Ordered by Difficulty):**
-  1. [Snake Game](https://github.com/NomadBeetle/Snake-Game) – A Python-based classic Snake game built using Turtle graphics and OOP principles.
-  2. [TaskMaster](https://github.com/NomadBeetle/TaskMaster) – A Java-based task management system.
-  3. [Console Calculator](https://github.com/NomadBeetle/Console-Calculator) – A Java-based calculator.
-  4. [Etch-A-Sketch](https://github.com/NomadBeetle/Etch-A-Sketch) – A Python Turtle Graphics-based drawing program.
-  5. [Python Quiz Game](https://github.com/NomadBeetle/Python-Quiz-Game.git) – A True/False quiz game built using Python and OOP principles.
-  6. [Spot Drawing Generator](https://github.com/NomadBeetle/Spot-Drawing-Generator) – A Python-based turtle graphics project that creates colorful spot paintings.
-  7. [Blackjack](https://github.com/NomadBeetle/Blackjack) – A Python CLI version of the classic Blackjack game.
-  8. [Higher Lower Game](https://github.com/NomadBeetle/Higher-Lower-Game) – A Python game based on guessing popularity rankings.
-  9. [MysticDigits](https://github.com/NomadBeetle/MysticDigits) – A Python-based number manipulation project.
-  10. [Coffee Maker](https://github.com/NomadBeetle/Coffee-Maker) – A Python-based coffee machine simulator.
-  11. [Caesar Cipher](https://github.com/NomadBeetle/Caesar-Cipher) – A Python implementation of the classic encryption technique.
-  12. [Hangman Game](https://github.com/NomadBeetle/Hangman) – A simple Python CLI word-guessing game.
+  1. [Retro Pong](https://github.com/NomadBeetle/Retro-Pong) - A simple Pong game built using Python's turtle module.
+  2. [Snake Game](https://github.com/NomadBeetle/Snake-Game) – A Python-based classic Snake game built using Turtle graphics and OOP principles.
+  3. [TaskMaster](https://github.com/NomadBeetle/TaskMaster) – A Java-based task management system.
+  4. [Console Calculator](https://github.com/NomadBeetle/Console-Calculator) – A Java-based calculator.
+  5. [Etch-A-Sketch](https://github.com/NomadBeetle/Etch-A-Sketch) – A Python Turtle Graphics-based drawing program.
+  6. [Python Quiz Game](https://github.com/NomadBeetle/Python-Quiz-Game.git) – A True/False quiz game built using Python and OOP principles.
+  7. [Spot Drawing Generator](https://github.com/NomadBeetle/Spot-Drawing-Generator) – A Python-based turtle graphics project that creates colorful spot paintings.
+  8. [Blackjack](https://github.com/NomadBeetle/Blackjack) – A Python CLI version of the classic Blackjack game.
+  9. [Higher Lower Game](https://github.com/NomadBeetle/Higher-Lower-Game) – A Python game based on guessing popularity rankings.
+  10. [MysticDigits](https://github.com/NomadBeetle/MysticDigits) – A Python-based number manipulation project.
+  11. [Coffee Maker](https://github.com/NomadBeetle/Coffee-Maker) – A Python-based coffee machine simulator.
+  12. [Caesar Cipher](https://github.com/NomadBeetle/Caesar-Cipher) – A Python implementation of the classic encryption technique.
+  13. [Hangman Game](https://github.com/NomadBeetle/Hangman) – A simple Python CLI word-guessing game.
   More projects to come...
 
 ---
