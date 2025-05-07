@@ -37,7 +37,8 @@ Tech adventurer on a quest to master coding and problem solving. Always leveling
   11. [MysticDigits](https://github.com/NomadBeetle/MysticDigits) – A Python-based number manipulation project.
   12. [Coffee Maker](https://github.com/NomadBeetle/Coffee-Maker) – A Python-based coffee machine simulator.
   13. [Caesar Cipher](https://github.com/NomadBeetle/Caesar-Cipher) – A Python implementation of the classic encryption technique.
-  14. [Hangman Game](https://github.com/NomadBeetle/Hangman) – A simple Python CLI word-guessing game.
+  14. [CodeSeCard](https://github.com/NomadBeetle/CodeSeCard) - A quirky Python script that auto-generates personalized shaadi invites from a template, because even weddings deserve automation!
+  15. [Hangman Game](https://github.com/NomadBeetle/Hangman) – A simple Python CLI word-guessing game.
   More projects to come...
 
 ---
