@@ -40,6 +40,7 @@ Tech adventurer on a quest to master coding and problem solving. Always leveling
   14. [Caesar Cipher](https://github.com/NomadBeetle/Caesar-Cipher) – A Python implementation of the classic encryption technique.
   15. [CodeSeCard](https://github.com/NomadBeetle/CodeSeCard) - A quirky Python script that auto-generates personalized shaadi invites from a template, because even weddings deserve automation!
   16. [Hangman Game](https://github.com/NomadBeetle/Hangman) – A simple Python CLI word-guessing game.
+  17. [Word-to-nato](https://github.com/NomadBeetle/Word-to-nato) - A simple Python tool that converts any word into its NATO phonetic alphabet using a CSV based dictionary.
   More projects to come...
 
 ---
