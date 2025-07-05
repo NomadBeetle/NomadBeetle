@@ -21,38 +21,46 @@ Tech adventurer on a quest to master coding and problem solving. Always leveling
 
 ---
 
-### My Coding Journey:
-- **LeetCode Progress:** 50+ problems solved.
-- **Projects (Ordered by Difficulty):**
-  1. [Retro Pong](https://github.com/NomadBeetle/Retro-Pong) - A simple Pong game built using Python's turtle module.
-  2. [Snake Game](https://github.com/NomadBeetle/Snake-Game) – A Python-based classic Snake game built using Turtle graphics and OOP principles.
-  3. [Desi Map Hunt](https://github.com/NomadBeetle/Desi-Map-Hunt) - A Python game to guess all 28 Indian states on a map using turtle graphics.
-  4. [Turtle Crossing Game](https://github.com/NomadBeetle/Turtle-Crossing-Game) - A python based road crossing game using Turtle graphics and OOP principles.
-  5. [TaskMaster](https://github.com/NomadBeetle/TaskMaster) – A Java-based task management system.
-  6. [Console Calculator](https://github.com/NomadBeetle/Console-Calculator) – A Java-based calculator.
-  7. [Etch-A-Sketch](https://github.com/NomadBeetle/Etch-A-Sketch) – A Python Turtle Graphics-based drawing program.
-  8. [Python Quiz Game](https://github.com/NomadBeetle/Python-Quiz-Game.git) – A True/False quiz game built using Python and OOP principles.
-  9. [Spot Drawing Generator](https://github.com/NomadBeetle/Spot-Drawing-Generator) – A Python-based turtle graphics project that creates colorful spot paintings.
-  10. [Blackjack](https://github.com/NomadBeetle/Blackjack) – A Python CLI version of the classic Blackjack game.
-  11. [Higher Lower Game](https://github.com/NomadBeetle/Higher-Lower-Game) – A Python game based on guessing popularity rankings.
-  12. [MysticDigits](https://github.com/NomadBeetle/MysticDigits) – A Python-based number manipulation project.
-  13. [Coffee Maker](https://github.com/NomadBeetle/Coffee-Maker) – A Python-based coffee machine simulator.
-  14. [Caesar Cipher](https://github.com/NomadBeetle/Caesar-Cipher) – A Python implementation of the classic encryption technique.
-  15. [CodeSeCard](https://github.com/NomadBeetle/CodeSeCard) - A quirky Python script that auto-generates personalized shaadi invites from a template, because even weddings deserve automation!
-  16. [Hangman Game](https://github.com/NomadBeetle/Hangman) – A simple Python CLI word-guessing game.
-  17. [Word-to-nato](https://github.com/NomadBeetle/Word-to-nato) - A simple Python tool that converts any word into its NATO phonetic alphabet using a CSV based dictionary.
-  More projects to come...
+## Projects
+
+> Ranked by difficulty based on how hard they pushed me
+
+### Advanced Projects
+
+* **Retro Pong** – A classic Pong remake using Turtle, packed with movement logic and collision detection.
+* **Snake Game** – Timeless snake game built using Turtle and clean OOP principles.
+* **Desi Map Hunt** – An interactive India map quiz using Turtle & CSV data. Inspired by U.S. State Game, made it my own.
+
+### Functional & Fun
+
+* **Turtle Crossing Game** – A frogger style arcade game, showcasing OOP and game loops.
+* **TaskMaster** – A simple yet powerful CLI task tracker written in Java.
+* **Etch-A-Sketch** – Sketch pad for creative minds using Python’s turtle module.
+* **NATO Translator** – Translates any word into the NATO phonetic alphabet using pandas.
+
+### Quick & Clever Builds
+
+* Blackjack CLI (Python)
+* Quiz Game (Python, OOP)
+* Spot Drawing Generator (Turtle art)
+* Higher Lower Game (Popularity battle)
+* Console Calculator (Java)
+* MysticDigits (Number pattern analyzer)
+* Coffee Machine CLI (Python)
+* Caesar Cipher (Classic encryption)
+* Hangman CLI (Python)
+* CodeSeCard (Shaadi card generator because why not?)
 
 ---
 
-### 📈 GitHub Stats:
+### GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NomadBeetle&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=NomadBeetle&cache_seconds=86400
 )
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NomadBeetle&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NomadBeetle&layout=compact&theme=radical)
 
 
-### 🔥 LeetCode Progress:
+### LeetCode Progress:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/NomadBeetle?theme=dark&font=Karma&ext=contest)](https://leetcode.com/NomadBeetle/)
 
 ---
@@ -62,4 +70,4 @@ Tech adventurer on a quest to master coding and problem solving. Always leveling
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/NomadBeetle/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/NomadBeetle)
 
-Always open to collaboration and learning opportunities.
+just a dev tryna leave a digital footprint 
