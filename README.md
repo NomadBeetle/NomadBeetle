@@ -9,6 +9,7 @@
 
 ### About Me:
 Tech adventurer on a quest to master coding and problem solving. Always leveling up my skills, exploring new technologies, and optimizing my code. Currently honing my Java and Python abilities.
+
 📍 Based in India
 - **Software Development:** Building efficient solutions in Java and Python
 - **Algorithms & Problem-Solving:** Active LeetCode solver
