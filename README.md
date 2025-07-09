@@ -9,6 +9,7 @@
 
 ### About Me:
 Tech adventurer on a quest to master coding and problem solving. Always leveling up my skills, exploring new technologies, and optimizing my code. Currently honing my Java and Python abilities.
+📍 Based in India
 - **Software Development:** Building efficient solutions in Java and Python
 - **Algorithms & Problem-Solving:** Active LeetCode solver
 
@@ -37,6 +38,7 @@ Tech adventurer on a quest to master coding and problem solving. Always leveling
 * **TaskMaster** – A simple yet powerful CLI task tracker written in Java.
 * **Etch-A-Sketch** – Sketch pad for creative minds using Python’s turtle module.
 * **NATO Translator** – Translates any word into the NATO phonetic alphabet using pandas.
+* **Nomadoro** – A clean, no-fuss Pomodoro timer built with Tkinter to stay on track and get things done.
 
 ### Quick & Clever Builds
 
