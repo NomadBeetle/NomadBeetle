@@ -40,6 +40,7 @@ Tech adventurer on a quest to master coding and problem solving. Always leveling
 * **Etch-A-Sketch** – Sketch pad for creative minds using Python’s turtle module.
 * **NATO Translator** – Translates any word into the NATO phonetic alphabet using pandas.
 * **Nomadoro** – A clean, no-fuss Pomodoro timer built with Tkinter to stay on track and get things done.
+* **Vaultify** – Because trusting your memory with passwords is a certified L.
 
 ### Quick & Clever Builds
 
