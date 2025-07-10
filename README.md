@@ -17,7 +17,7 @@
 ### Tech Stack
 
 ```bash
-Languages:   Python, Java, C (basic)
+Languages:   Python, Java, C (basic), C++ (basic)
 Tools:       Git, GitHub, VS Code, Jupyter
 Libraries:   pandas, tkinter, turtle
 Concepts:    OOP, DSA, File Handling, CLI Tools
