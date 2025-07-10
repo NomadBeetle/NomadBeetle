@@ -2,7 +2,7 @@
 
 > Aspiring Software Engineer | B.Tech CSE (AIML) @ VIT Bhopal.
 
-> Just a dev tryna leave a digital footprint
+> Just a dev tryna leave a digital footprint.
 
 ---
 
