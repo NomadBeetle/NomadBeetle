@@ -1,6 +1,7 @@
 # Hey, I’m Azaan 👋
 
-> Aspiring Software Engineer | B.Tech CSE (AIML) @ VIT Bhopal
+> Aspiring Software Engineer | B.Tech CSE (AIML) @ VIT Bhopal.
+
 > Just a dev tryna leave a digital footprint
 
 ---
