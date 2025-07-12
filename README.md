@@ -56,7 +56,7 @@ Concepts:    OOP, DSA, File Handling, CLI Tools
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/azaan-ahmed-a738b4332/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat\&logo=github)](https://github.com/NomadBeetle)
