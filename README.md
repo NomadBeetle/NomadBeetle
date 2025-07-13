@@ -34,7 +34,7 @@ Concepts:    OOP, DSA, File Handling, CLI Tools
 * **Desi Map Hunt** – A geography quiz made cooler with Python & CSV.
 * **Snake Game** – Timeless snake game built using Turtle and clean OOP principles.
 * **Retro Pong** – A classic Pong remake using Turtle, packed with movement logic and collision detection.
-* **Etch-A-Sketch** – Sketch pad for creative minds using Python’s turtle module.
+* **This Ain’t Duolingo** – Because real ones learn without a green owl stalking them.
 
 ➡ Check out [more projects here](https://github.com/NomadBeetle?tab=repositories)
 
