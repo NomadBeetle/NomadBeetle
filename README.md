@@ -27,7 +27,7 @@ Concepts:    OOP, DSA, File Handling, CLI Tools
 
 ### Highlight Projects
 
-> Just a handful of builds with brains *and* personality
+> Just a handful of builds
 
 * **Vaultify** – Because trusting your memory with passwords is a certified L.
 * **Nomadoro** – A no fuss Pomodoro app to keep your grind on track.
