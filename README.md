@@ -29,11 +29,11 @@ Concepts:    OOP, DSA, File Handling, CLI Tools, REST APIs, Web Scraping, Automa
 
 > Just a handful of builds
 
+* **Flight Club** – Tracks flight prices using Google Sheets and sends alerts for the best deals.
+* **Exercise Tracker** – Automates workout logging using the Google Sheets API and a calorie tracking API.
 * **Vaultify** – Because trusting your memory with passwords is a certified L.
 * **Nomadoro** – A no fuss Pomodoro app to keep your grind on track.
 * **Desi Map Hunt** – A geography quiz made cooler with Python & CSV.
-* **Snake Game** – Timeless snake game built using Turtle and clean OOP principles.
-* **Retro Pong** – A classic Pong remake using Turtle, packed with movement logic and collision detection.
 * **This Ain’t Duolingo** – Because real ones learn without a green owl stalking them.
 
 ➡ Check out [more projects here](https://github.com/NomadBeetle?tab=repositories)
