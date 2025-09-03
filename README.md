@@ -19,8 +19,8 @@
 ```bash
 Languages:   Python, Java, C (basic), C++ (basic), HTML, CSS
 Tools:       Git, GitHub, VS Code, Jupyter
-Libraries:   pandas, tkinter, turtle
-Concepts:    OOP, DSA, File Handling, CLI Tools
+Libraries:   pandas, tkinter, turtle, BeautifulSoup, requests
+Concepts:    OOP, DSA, File Handling, CLI Tools, REST APIs, Web Scraping, Automation 
 ```
 
 ---
